@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Inception
 Interstellar
 The Dark Knight
+=======
+Breaking Bad
+Stranger Things
+The Last of Us
+>>>>>>> series
